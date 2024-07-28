@@ -18,12 +18,28 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ## Questões
 
-Em andamento.
+| Nome                                                                                                                            | Nível   |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [https://leetcode.com/problems/course-schedule-iii/description/](https://leetcode.com/problems/course-schedule-iii/) | Difícil |
 
 ## Vídeo
 
 
 ## Screenshots
+
+### [https://leetcode.com/problems/course-schedule-iii/description/](https://leetcode.com/problems/course-schedule-iii/)
+
+Caso 1:
+
+![](https://github.com/user-attachments/assets/60b26739-9721-4e07-b707-86588ce22c33)<br>
+
+Caso 2:
+
+![](https://github.com/user-attachments/assets/389f5993-f8c3-4f33-b5a4-81360f75c0fb)<br>
+
+Caso 3:
+
+![](https://github.com/user-attachments/assets/a6a3681d-5789-4c40-8d17-3773358cb179)<br>
 
 
 ## Instalação
