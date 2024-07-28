@@ -19,6 +19,3 @@ class Solution:
 
 # Exemplo de uso
 sol = Solution()
-print(sol.scheduleCourse([[100,200],[200,1300],[1000,1250],[2000,3200]])) # Caso 1 
-print(sol.scheduleCourse([[1,2]])) # Caso 2
-print(sol.scheduleCourse([[3,2],[4,3]])) # Caso 3
