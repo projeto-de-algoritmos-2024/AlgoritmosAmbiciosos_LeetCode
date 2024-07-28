@@ -20,14 +20,14 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 | Nome                                                                                                                            | Nível   |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [https://leetcode.com/problems/course-schedule-iii/description/](https://leetcode.com/problems/course-schedule-iii/) | Difícil |
+| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | Difícil |
 
 ## Vídeo
 
 
 ## Screenshots
 
-### [https://leetcode.com/problems/course-schedule-iii/description/](https://leetcode.com/problems/course-schedule-iii/)
+### [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
 
 Caso 1:
 
