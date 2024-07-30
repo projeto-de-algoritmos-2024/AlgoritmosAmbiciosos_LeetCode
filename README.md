@@ -18,12 +18,15 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ## Questões
 
-| Nome                                                                                                                            | Nível   |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | Difícil |
+| Nome                                                                                                                                        | Nível   |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)                                                              | Difícil |
+| [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)                                                                 | Difícil |
+| [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Difícil |
 
 ## Vídeo
 
+[Vídeo](https://youtu.be/LO1i9c0drQU)
 
 ## Screenshots
 
@@ -41,6 +44,29 @@ Caso 3:
 
 ![](https://github.com/user-attachments/assets/a6a3681d-5789-4c40-8d17-3773358cb179)<br>
 
+### [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)
+
+Caso 1:
+
+![](./images/1.png)<br>
+
+Caso 2:
+
+![](./images/2.png)<br>
+
+[1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/)
+
+Caso 1:
+
+![](./images/3.png)<br>
+
+Caso 2:
+
+![](./images/4.png)<br>
+
+Caso 3:
+
+![](./images/5.png)<br>
 
 ## Instalação
 
